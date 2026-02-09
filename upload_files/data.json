@@ -1,0 +1,294 @@
+{
+  "body": {
+    "CharlieNo": "C-1114",
+    "DriverName": "นาย นนทรีย์ สิงห์ทอง",
+    "DriverId": "51",
+    "PlateNo": "2ฒง-6008",
+    "Branch": "PHUKET",
+    "Mileage": "114422",
+    "CheckingDateTime": "2025-07-06T15:19:40.708849",
+    "VehicleType": "1",
+    "VehicleTypeOther": "",
+    "Other": "เทสๆๆ",
+    "CheckItems": [
+      {
+        "section": "SecurityCheck",
+        "title": "ประตู (ใช้งานได้สมบูรณ์/อินเตอร์ล็อค)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ประตูด้านหน้า ซ้าย ขวา",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ประตูข้าง",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ประตูตู้เซฟ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ประตูฉุกเฉินเหนือศีรษะ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "กล่องวงจรปิดและจอแสดงผล",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "แผงควบคุมสัญญาณไฟแสดงสถานะต่างๆ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "แผงควบคุมการเข้าออก และ หน้าจอสถานะรถ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ไฟแสดงสถานะ Depot mode",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ไฟแสดงสถานะ Secure mode",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ไฟแสดงสถานะระบบอิมโมบิไลเซอร์",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "SecurityCheck",
+        "title": "ระบบสแกนนิ้ว",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "สภาพยางทั้ง 4 ล้อ และยางอะไหล่",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "อุปกรณ์ประจำรถ ที่ถอดล้อ แม่แรง อุปกรณ์อื่นฯ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "ระดับน้ำมันเครื่อง (อยู่ในระดับที่ปกติ)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "ระดับน้ำมันเบรค (อยู่ในระดับที่ปกติ)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "น้ำหล่อเย็นเครื่องยนต์ ในหม้อน้ำหลัก, หม้อพักน้ำ",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "สายพานหน้าเครื่อง (ไม่มีร่องรอยฉีกขาด)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "เบรค",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "เกียร์",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "แตร/ที่ปัดน้ำฝน",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "ไฟหน้า ไฟสูง ไฟเลี้ยว ไฟเบรค อยู่ในสภาพดี",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "เกจวัดความร้อนเครื่องยนต์/มาตรอัตราความเร็ว",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "แอร์",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "กระจก",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "กระจกมองข้างซ้าย ขวา",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "กระจกหน้า กระจกหลัง",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "กระจกอื่นๆ(หลังคนขับ, ประตูข้าง,ฯลฯ)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "VehicleCondition",
+        "title": "เข็มขัดนิรภัย",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "LegalDocument",
+        "title": "พ.ร.บ (เป็นปัจจุบัน)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "LegalDocument",
+        "title": "ป้ายวงกลม (ภาษี)",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "LegalDocument",
+        "title": "แผ่นป้ายทะเบียนรถ หน้า/หลัง",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "LegalDocument",
+        "title": "สำเนาทะเบียน",
+        "status": "normal",
+        "detail": ""
+      },
+      {
+        "section": "LegalDocument",
+        "title": "บัตรน้ำมัน",
+        "status": "normal",
+        "detail": ""
+      }
+    ],
+    "AdditionalChecks": [
+      {
+        "title": "กันชนหน้า",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "กันชนหลัง",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ประตูหน้าขวา",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ประตูหน้าซ้าย",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ตัวถังหน้าขวา",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ตัวถังหน้าซ้าย",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ตัวถังหลังขวา",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ตัวถังหลังซ้าย",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ไฟหน้าขวา",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ไฟหน้าซ้าย",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ไฟหลังขวา",
+        "status": "บุบ",
+        "detail": ""
+      },
+      {
+        "title": "ไฟหลังซ้าย",
+        "status": "บุบ",
+        "detail": ""
+      }
+    ]
+  },
+  "files": [
+    {
+      "fieldname": "image1",
+      "originalname": "136e9e53-137e-4f63-87af-caffbf028585826217178754136197.jpg",
+      "encoding": "7bit",
+      "mimetype": "application/octet-stream",
+      "destination": "upload_files",
+      "filename": "image1-1751791173456_627476350.jpg",
+      "path": "upload_files\\image1-1751791173456_627476350.jpg",
+      "size": 64167
+    }
+  ]
+}
